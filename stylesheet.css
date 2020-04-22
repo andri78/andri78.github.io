@@ -1,9 +1,7 @@
-* {margin:0}
-   
-.footer {
-            width:auto;
-            height:auto;
-            padding:10px 13px;
-            background:#fff;
-            color:#fff;
-}
+#footer { margin-bottom:10px;
+               height:150px;
+               width:1000px;
+               background:aqua;
+               float:left;
+               padding:0px;     
+}    
